@@ -30,3 +30,29 @@ section{
     text-decoration: none;
     color: #483d8b;
 }
+fieldset{
+    
+    width: 50%;
+    margin: auto 20px;
+    padding: 20px;
+    border: 2px solid #333;
+    border-radius: 10px;
+    
+}
+#name{ text-align: start;
+    width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+#email{ width: 200px;
+    padding: 10px;
+    margin-bottom: 10px;
+
+}
+
+#message{
+    width: 400px;
+}
+footer{
+    text-align: center;
+}
