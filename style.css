@@ -22,3 +22,11 @@ header{
 section{
     font-family: newfont
 }
+.work{
+    text-decoration: none;
+    color: #483d8b;
+}
+.me{
+    text-decoration: none;
+    color: #483d8b;
+}
